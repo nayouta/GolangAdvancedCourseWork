@@ -1,14 +1,14 @@
 package main
 
 import (
-	"github.com/go-kratos/beer-shop/app/cart/service/internal/biz"
-	"github.com/go-kratos/beer-shop/app/cart/service/internal/conf"
-	"github.com/go-kratos/beer-shop/app/cart/service/internal/data"
-	"github.com/go-kratos/beer-shop/app/cart/service/internal/server"
-	"github.com/go-kratos/beer-shop/app/cart/service/internal/service"
+	"TODOService/internal/biz"
+	"TODOService/internal/data"
+	"TODOService/internal/server"
+	"TODOService/internal/service"
 
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
+
 	"github.com/google/wire"
 )
 
